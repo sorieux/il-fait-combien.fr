@@ -1,8 +1,8 @@
 # Projet il-fait-combien.fr #
----
+
 
 ## À propos
----
+
 Le principe de ce projet est de récupérer la température d'une pièce par exemple grâce à une sonde, et de la présenter sur une page web.
 
 Le fonctionnement résumé de la solution proposée est le suivant :  
@@ -17,7 +17,7 @@ Ce projet est pour moi une manière ludique de m'initier aux technologies utilis
 Une version de production de mon travail est disponible à l'adresse suivante [il-fait-combien.fr](htpp://www.il-fait-combien.fr)
 
 ## La sonde
----
+
 Pour la sonde, j'ai utilisé le hardware suivant : 
 * un arduino Uno
 * un shield ethernet
@@ -25,7 +25,7 @@ Pour la sonde, j'ai utilisé le hardware suivant :
 * des fils!
 
 ## Application node js
----
+
 Dans ce projet, j'utilise les frameworks suivants :
 * [express.js](http://expressjs.com/)
 * [hogan.js](http://twitter.github.io/hogan.js/)

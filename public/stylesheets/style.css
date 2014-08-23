@@ -1,0 +1,22 @@
+html, body, .container {
+    height: 100%;
+    background-color: #f98470;
+
+
+ }
+.container {
+    display: table;
+    vertical-align: middle;
+    text-align: center;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.temperature{
+    font-size: 15em;
+    color: white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}

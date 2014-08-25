@@ -3,7 +3,7 @@
 
 ## À propos
 
-Le principe de ce projet est de récupérer la température d'une pièce par exemple grâce à une sonde, et de la présenter sur une page web.
+Le principe de ce projet est de récupérer la température d'une pièce, par exemple grâce à une sonde, et de la présenter sur une page web.
 
 Le fonctionnement résumé de la solution proposée est le suivant :  
 La sonde, après mesure d'une température fait une requête Post au webservice en envoyant le nom de la sonde et la température. Le webservice stocke dans la base de données mongoDB la mesure et push la mesure de température au client connecté via socket.io
